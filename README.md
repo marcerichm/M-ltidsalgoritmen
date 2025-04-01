@@ -1,5 +1,9 @@
 # M-ltidsalgoritmen
-En algoritmisk basert måltidsplanlegger, planlegger automatisk alle ukentlige måltider basert på nærings-preferanser og behov som allergener/foodmap. Basert på informasjon hentet fra matvaretabellen.no.
+An algorithmically based meal-planner, which automatically plans all weekly meals based on your neutritional preferances and allergy/foodmap needs. Based on information from matvareportalen.no.
 
-⚠️ This code is not licensed for commercial use without explicit written permission. Contact me if you're interested in using it commercially.
+
+# License
+
+This project is licensed under custom terms.  
+Please see the [LICENSE](./LICENSE) file for full details.
 
